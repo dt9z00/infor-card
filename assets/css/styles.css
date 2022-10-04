@@ -169,7 +169,7 @@ body.dark-theme {
 }
 
 .profile__perfil img {
-  width: 75px;
+  
 }
 
 .profile__border {
@@ -243,6 +243,7 @@ body.dark-theme {
 
 .profile__buttons-small {
   column-gap: .25rem;
+  display: none;
 }
 
 /*=============== BUTTONS ===============*/
